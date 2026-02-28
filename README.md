@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Popovyc-h&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats-tan-zeta-35.vercel.app/api?username=Popovyc-h&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popovyc-h&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
+  <img src="https://github-readme-stats-tan-zeta-35.vercel.app/api/top-langs/?username=Popovyc-h&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
