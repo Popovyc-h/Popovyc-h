@@ -3,13 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-tan-zeta-35.vercel.app/api?username=Popovyc-h&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-tan-zeta-35.vercel.app/api/top-langs/?username=Popovyc-h&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Popovyc-h&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Popovyc-h/Popovyc-h/output/github-contribution-grid-snake-dark.svg" />
 </p>
